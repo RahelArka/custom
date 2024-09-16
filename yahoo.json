@@ -1,0 +1,39 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "workbench.editor.empty.hint": "hidden",
+    "code-runner.runInTerminal": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'cascadia code', 'azeret mono'",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "phase",
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "workbench.activityBar.location": "hidden",
+    "terminal.integrated.mouseWheelZoom": true,
+    "terminal.integrated.fontSize": 22,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Palenight (Mild Contrast)",
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "window.titleBarStyle": "custom",
+
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/rahel/custom.css"
+        
+    ],
+    "explorer.confirmDelete": false,
+    "workbench.statusBar.visible": false,
+
+    
+    
+}
